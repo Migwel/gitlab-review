@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.migwel.gitlabreview.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.migwel.gitlabreview.MyBundle
 
 class MyApplicationService {
 
